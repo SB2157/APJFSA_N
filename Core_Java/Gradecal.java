@@ -1,5 +1,3 @@
-package Core_Java;
-
 import java.util.Scanner;
 
 public class Gradecal {
