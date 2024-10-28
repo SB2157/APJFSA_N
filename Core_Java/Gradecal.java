@@ -1,5 +1,5 @@
+package CoreJava;
 import java.util.Scanner;
-
 public class Gradecal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
